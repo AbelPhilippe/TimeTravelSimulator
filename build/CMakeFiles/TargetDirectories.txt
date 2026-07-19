@@ -1,4 +1,0 @@
-/home/elpsykongroo/Projects/C-general/TimeTravelSimulator/build/CMakeFiles/glad.dir
-/home/elpsykongroo/Projects/C-general/TimeTravelSimulator/build/CMakeFiles/TimeTravelSimulator.dir
-/home/elpsykongroo/Projects/C-general/TimeTravelSimulator/build/CMakeFiles/edit_cache.dir
-/home/elpsykongroo/Projects/C-general/TimeTravelSimulator/build/CMakeFiles/rebuild_cache.dir
