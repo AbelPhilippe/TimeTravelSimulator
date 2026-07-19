@@ -26,6 +26,18 @@ int main(int argc, char* argv[])
         {
             std::cout << "Time Travel Simulator -- Version: 1.0.0\n";
         }
+        else if (arg == "--debug")
+        {
+            std::cout << "Debug mode enabled.\n";
+        }
+        else if (arg == "--wormhole")
+        {
+            std::cout << "Wormhole mode enabled.\n";
+        }
+        else
+        {
+            std::cout << "Unknown argument: " << arg << "\n";
+        }
     }
 
     return 0;

@@ -1,0 +1,2 @@
+#ifndef WORMHOLE_HPP
+#define WORMHOLE_HPP

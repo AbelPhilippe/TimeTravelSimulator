@@ -10,10 +10,3 @@
 #include <string>
 #include <ctime>
 #include <cstdlib>
-
-#include <Constants.cpp>
-#include <args.cpp>
-#include <banner.cpp>
-#include <Geodesic.cpp>
-#include <Tensor.cpp>
-#include <TimeMachine.cpp>
